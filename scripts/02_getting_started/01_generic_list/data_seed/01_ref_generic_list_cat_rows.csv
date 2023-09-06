@@ -1,0 +1,30 @@
+id,code,name,description,order_list
+17f39e3c-ee98-4df9-ad72-e771a0a246da,blog_gral_categories,Gral blog category,Blog article general categories,
+82811050-03a4-4643-8432-8387376137e4,order_proccessing_status,Order Status,,
+ceca7dfe-1af1-4bb7-abf5-ff5002550374,order_claim_type,Order Claim Types,,
+a1f20d6c-0587-478a-9705-196d8e8b77d1,type_currency,Tipo Moneda,,
+d92af3e8-7297-48c0-b834-135d2b353310,language_available,Idiomas,,
+0d94d7ac-6c63-46d3-acaf-22d85b3dddac,transport_courier,Transportadoras,Mensajeria nacional,
+22b4ff56-7e63-4e98-891a-f65aef14cbe0,stock_move_direction,Dirección Moviento Stock,,
+ad87879b-5c58-4739-8b25-89d1d4d1eac7,product_brand_home,Product Brand Appliances,,2
+136dfd9c-66f3-403a-8a95-a4830ec8bf6a,campaign_type,Tipo Campaña,,
+7f39ec9e-72fa-4b3b-99c8-2db7e54b50ab,credit_proccessing_status,Credit Request Status,,
+8492eb26-61cc-4bcb-9a5b-1afad2cb751b,credit_type,Credit Type,,
+9f7db56a-6eeb-41d5-9bec-32d02c0001cc,order_claim_proccessing_status,Order Claim Status,,
+fbf0714f-ee3a-4850-86f4-07918561a390,payment_method,Medios de Pago,,
+be5be272-a903-4a29-885e-f3962ba030a3,payment_status,Estado del Pago,,
+75b80f04-ba58-48c9-a0ac-93cb3e95661b,mobile_phone,Celulares,mobile phone categories,0
+a4c9ddce-a191-4f20-904b-3016f0f512fc,technology,Tecnología,technology stack categories,1
+1813ae8c-6e8b-4f74-82fe-884f5ecf939c,home,Hogar,home & appliances categories,2
+f70b7f08-2efd-4fe3-8bd6-e6521fa7ca73,outlets,Ofertas,outlets products categories,3
+124b1289-7a1f-4352-a6a5-0ada7fdf5d32,type_location,Tipo Residencia,,
+5bce90fd-b2bd-4755-8fbc-6152481b2c9f,type_address,Tipo Dirección,,
+0d3eb96c-ff09-4cbc-8194-c89b85f765c6,reason_move_stock,Razón Movimiento Stock,,
+5b1d709d-fd3c-40c0-b6e2-dacc8ad443ee,product_brand_technology,Product Brand Technology,,1
+7c66e5c3-e4f1-479e-ac9f-f4ee04b4669c,crm_request_status,Estado solicitud CRM,,
+94b6a5e2-c620-4e3f-9c4c-100536c9e311,crm_info_request,Solicitud de Información,,
+acad7732-878c-4611-86d2-322b6c90ab2e,product_brand_mobile,Marcas de Productos,,0
+bef7e8d7-a0f5-401f-bdb8-678c953b70ca,unit_packaging,Unidad Empaquetado,,
+d399c4ae-af08-4018-9367-8ffee143e249,product_landing_deals,Landing Deals,Landing Deals Cfg,
+58f3bb7b-f5df-4a3d-a9e0-755e731d68e4,landing_section_cfg,Landing Section Cfg,,
+955a2721-1552-48c8-b135-79bf36d86e00,app_gender,Genero,,

@@ -1,0 +1,127 @@
+id,departamento_id,codigo,nombre
+1058,26,1,Yopal
+1059,26,10,Aguazul
+1060,26,15,Chameza
+1061,26,125,Hato Corozal
+1062,26,136,La Salina
+1063,26,139,Mani
+1064,26,162,Monterrey
+1065,26,225,Nunchia
+1066,26,230,Orocue
+1067,26,250,Paz De Ariporo
+1068,26,263,Pore
+1069,26,279,Recetor
+1070,26,300,Sabanalarga
+1071,26,315,Sacama
+1072,26,325,San Luis De Palenque
+1073,26,400,Tamara
+1074,26,410,Tauramena
+1075,26,430,Trinidad
+1076,26,440,Villanueva
+1077,27,1,Mocoa
+1078,27,219,Colon
+1079,27,320,Orito
+1080,27,568,Puerto Asis
+1081,27,569,Puerto Caicedo
+1082,27,571,Puerto Guzman
+1083,27,573,Puerto Leguizamo
+1084,27,749,Sibundoy
+1085,27,755,San Francisco
+1086,27,757,San Miguel (La Dorada)
+1087,27,760,Santiago
+1088,27,865,La Hormiga (Valle Del Guamuez)
+1089,27,885,Villagarzon
+1090,28,1,San Andres
+1091,28,564,Providencia
+1092,29,1,Leticia
+1093,29,263,El Encanto
+1094,29,405,La Chorrera
+1095,29,407,La Pedrera
+1096,29,430,La Victoria
+1097,29,460,Miriti-Parana
+1098,29,530,Puerto Alegria
+1099,29,536,Puerto Arica
+1100,29,540,Puerto Nariño
+1101,29,669,Puerto Santander
+1102,29,798,Tarapaca
+3,1,4,Abriaqui
+4,1,21,Alejandria
+5,1,30,Amaga
+6,1,31,Amalfi
+7,1,34,Andes
+8,1,36,Angelopolis
+9,1,38,Angostura
+10,1,40,Anori
+11,1,42,Antioquia
+12,1,44,Anza
+13,1,45,Apartado
+14,1,51,Arboletes
+15,1,55,Argelia
+16,1,59,Armenia
+17,1,79,Barbosa
+18,1,86,Belmira
+19,1,88,Bello
+20,1,91,Betania
+21,1,93,Betulia
+22,1,101,Bolivar
+23,1,107,Briceño
+24,1,113,Buritica
+25,1,120,Caceres
+26,1,125,Caicedo
+27,1,129,Caldas
+28,1,134,Campamento
+29,1,138,Cañasgordas
+30,1,142,Caracoli
+31,1,145,Caramanta
+32,1,147,Carepa
+33,1,148,Carmen De Viboral
+34,1,150,Carolina
+35,1,154,Caucasia
+36,1,172,Chigorodo
+37,1,190,Cisneros
+38,1,197,Cocorna
+39,1,206,Concepcion
+40,1,209,Concordia
+41,1,212,Copacabana
+42,1,234,Dabeiba
+43,1,237,Don Matias
+44,1,240,Ebejico
+45,1,250,El Bagre
+46,1,264,Entrerrios
+47,1,266,Envigado
+48,1,282,Fredonia
+49,1,284,Frontino
+50,1,306,Giraldo
+51,1,308,Girardota
+52,1,310,Gomez Plata
+53,1,313,Granada
+54,1,315,Guadalupe
+55,1,318,Guarne
+1103,30,1,Puerto Inirida
+1104,30,343,Barranco Minas
+1105,30,883,San Felipe
+1106,30,884,Puerto Colombia
+1107,30,885,La Guadalupe
+1108,30,886,Cacahual
+1109,30,887,Pana Pana (Campo Alegre)
+1110,30,888,Morichal (Morichal Nuevo)
+1111,31,1,San Jose Del Guaviare
+1112,31,15,Calamar
+1113,31,25,El Retorno
+1114,31,200,Miraflores
+1115,32,1,Mitu
+1116,32,161,Caruru
+1117,32,511,Pacoa
+1118,32,666,Taraira
+1119,32,777,Papunaua (Morichal)
+1120,32,889,Yavarate
+1121,33,1,Puerto Carreño
+1122,33,524,La Primavera
+1123,33,572,Santa Rita
+1124,33,666,Santa Rosalia
+1125,33,760,San Jose De Ocune
+1126,33,773,Cumaribo
+170,4,1,Cartagena
+126,2,1,Barranquilla
+590,12,1,Quibdo
+667,15,1,Santa Marta

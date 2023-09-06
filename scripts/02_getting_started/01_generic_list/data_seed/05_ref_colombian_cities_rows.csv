@@ -1,0 +1,501 @@
+id,departamento_id,codigo,nombre
+1,1,1,Medellin
+2,1,2,Abejorral
+56,1,321,Guatape
+57,1,347,Heliconia
+58,1,353,Hispania
+59,1,360,Itagui
+60,1,361,Ituango
+61,1,364,Jardin
+62,1,368,Jerico
+63,1,376,La Ceja
+64,1,380,La Estrella
+65,1,390,La Pintada
+66,1,400,La Union
+67,1,411,Liborina
+68,1,425,Maceo
+69,1,440,Marinilla
+70,1,467,Montebello
+71,1,475,Murindo
+72,1,480,Mutata
+73,1,483,Nariño
+74,1,490,Necocli
+75,1,495,Nechi
+76,1,501,Olaya
+77,1,541,Peñol
+78,1,543,Peque
+79,1,576,Pueblorrico
+80,1,579,Puerto Berrio
+81,1,585,Puerto Nare (La Magdalena)
+82,1,591,Puerto Triunfo
+83,1,604,Remedios
+84,1,607,Retiro
+85,1,615,Rionegro
+86,1,628,Sabanalarga
+87,1,631,Sabaneta
+88,1,642,Salgar
+89,1,647,San Andres
+90,1,649,San Carlos
+91,1,652,San Francisco
+92,1,656,San Jeronimo
+93,1,658,San Jose De La Montaña
+94,1,659,San Juan De Uraba
+95,1,660,San Luis
+96,1,664,San Pedro
+97,1,665,San Pedro De Uraba
+98,1,667,San Rafael
+99,1,670,San Roque
+100,1,674,San Vicente
+101,1,679,Santa Barbara
+102,1,686,Santa Rosa De Osos
+103,1,690,Santo Domingo
+104,1,697,Santuario
+105,1,736,Segovia
+106,1,756,Sonson
+107,1,761,Sopetran
+108,1,789,Tamesis
+109,1,790,Taraza
+110,1,792,Tarso
+111,1,809,Titiribi
+112,1,819,Toledo
+113,1,837,Turbo
+114,1,842,Uramita
+115,1,847,Urrao
+116,1,854,Valdivia
+117,1,856,Valparaiso
+118,1,858,Vegachi
+119,1,861,Venecia
+120,1,873,Vigia Del Fuerte
+121,1,885,Yali
+122,1,887,Yarumal
+123,1,890,Yolombo
+124,1,893,Yondo
+125,1,895,Zaragoza
+127,2,78,Baranoa
+128,2,137,Campo De La Cruz
+129,2,141,Candelaria
+130,2,296,Galapa
+131,2,372,Juan De Acosta
+132,2,421,Luruaco
+135,2,520,Palmar De Varela
+136,2,549,Piojo
+137,2,558,Polo Nuevo
+138,2,560,Ponedera
+139,2,573,Puerto Colombia
+140,2,606,Repelon
+141,2,634,Sabanagrande
+142,2,638,Sabanalarga
+143,2,675,Santa Lucia
+144,2,685,Santo Tomas
+145,2,758,Soledad
+146,2,770,Suan
+147,2,832,Tubara
+148,2,849,Usiacuri
+149,3,1,Santa Fe De Bogotá
+150,3,1,Usaquen
+151,3,2,Chapinero
+152,3,3,Santa Fe
+153,3,4,San Cristobal
+154,3,5,Usme
+155,3,6,Tunjuelito
+156,3,7,Bosa
+157,3,8,Kennedy
+158,3,9,Fontibon
+159,3,10,Engativa
+160,3,11,Suba
+161,3,12,Barrios Unidos
+162,3,13,Teusaquillo
+163,3,14,Martires
+164,3,15,Antonio Nariño
+165,3,16,Puente Aranda
+166,3,17,Candelaria
+167,3,18,Rafael Uribe
+168,3,19,Ciudad Bolivar
+169,3,20,Sumapaz
+171,4,6,Achi
+172,4,30,Altos Del Rosario
+173,4,42,Arenal
+174,4,52,Arjona
+175,4,62,Arroyohondo
+176,4,74,Barranco De Loba
+177,4,140,Calamar
+178,4,160,Cantagallo
+179,4,188,Cicuco
+180,4,212,Cordoba
+181,4,222,Clemencia
+182,4,244,El Carmen De Bolivar
+183,4,248,El Guamo
+184,4,268,El Peñon
+185,4,300,Hatillo De Loba
+186,4,430,Magangue
+133,2,433,Malambo
+134,2,436,Manati
+187,4,433,Mahates
+188,4,440,Margarita
+189,4,442,Maria La Baja
+190,4,458,Montecristo
+191,4,468,Mompos
+192,4,473,Morales
+193,4,549,Pinillos
+194,4,580,Regidor
+195,4,600,Rio Viejo
+196,4,620,San Cristobal
+197,4,647,San Estanislao
+198,4,650,San Fernando
+199,4,654,San Jacinto
+200,4,655,San Jacinto Del Cauca
+201,4,657,San Juan Nepomuceno
+202,4,667,San Martin De Loba
+203,4,670,San Pablo
+204,4,673,Santa Catalina
+205,4,683,Santa Rosa
+206,4,688,Santa Rosa Del Sur
+207,4,744,Simiti
+208,4,760,Soplaviento
+209,4,780,Talaigua Nuevo
+211,4,836,Turbaco
+212,4,838,Turbana
+213,4,873,Villanueva
+214,4,894,Zambrano
+215,5,1,Tunja
+216,5,22,Almeida
+217,5,47,Aquitania
+218,5,51,Arcabuco
+219,5,87,Belen
+220,5,90,Berbeo
+221,5,92,Beteitiva
+222,5,97,Boavita
+223,5,104,Boyaca
+224,5,106,Briceño
+225,5,109,Buenavista
+226,5,114,Busbanza
+227,5,131,Caldas
+228,5,135,Campohermoso
+229,5,162,Cerinza
+230,5,172,Chinavita
+231,5,176,Chiquinquira
+232,5,180,Chiscas
+233,5,183,Chita
+234,5,185,Chitaraque
+235,5,187,Chivata
+236,5,189,Cienega
+237,5,204,Combita
+238,5,212,Coper
+239,5,215,Corrales
+240,5,218,Covarachia
+241,5,223,Cubara
+242,5,224,Cucaita
+243,5,226,Cuitiva
+244,5,232,Chiquiza
+245,5,236,Chivor
+246,5,238,Duitama
+247,5,244,El Cocuy
+248,5,248,El Espino
+249,5,272,Firavitoba
+250,5,276,Floresta
+251,5,293,Gachantiva
+252,5,296,Gameza
+253,5,299,Garagoa
+254,5,317,Guacamayas
+255,5,322,Guateque
+256,5,325,Guayata
+257,5,332,Guican
+258,5,362,Iza
+259,5,367,Jenesano
+260,5,368,Jerico
+261,5,377,Labranzagrande
+262,5,380,La Capilla
+263,5,401,La Victoria
+210,4,810,Tiquisio
+264,5,403,La Uvita
+265,5,407,Villa De Leiva
+266,5,425,Macanal
+267,5,442,Maripi
+268,5,455,Miraflores
+269,5,464,Mongua
+270,5,466,Mongui
+271,5,469,Moniquira
+272,5,476,Motavita
+273,5,480,Muzo
+274,5,491,Nobsa
+275,5,494,Nuevo Colon
+276,5,500,Oicata
+277,5,507,Otanche
+278,5,511,Pachavita
+279,5,514,Paez
+280,5,516,Paipa
+281,5,518,Pajarito
+282,5,522,Panqueba
+283,5,531,Pauna
+284,5,533,Paya
+285,5,537,Paz Del Rio
+286,5,542,Pesca
+287,5,550,Pisba
+288,5,572,Puerto Boyaca
+289,5,580,Quipama
+290,5,599,Ramiriqui
+291,5,600,Raquira
+292,5,621,Rondon
+293,5,632,Saboya
+294,5,638,Sachica
+295,5,646,Samaca
+296,5,660,San Eduardo
+297,5,664,San Jose De Pare
+298,5,667,San Luis De Gaceno
+299,5,673,San Mateo
+300,5,676,San Miguel De Sema
+301,5,681,San Pablo De Borbur
+302,5,686,Santana
+303,5,690,Santa Maria
+304,5,693,Santa Rosa De Viterbo
+305,5,696,Santa Sofia
+306,5,720,Sativanorte
+307,5,723,Sativasur
+308,5,740,Siachoque
+309,5,753,Soata
+310,5,755,Socota
+311,5,757,Socha
+312,5,759,Sogamoso
+313,5,761,Somondoco
+314,5,762,Sora
+315,5,763,Sotaquira
+316,5,764,Soraca
+317,5,774,Susacon
+318,5,776,Sutamarchan
+319,5,778,Sutatenza
+320,5,790,Tasco
+321,5,798,Tenza
+322,5,804,Tibana
+323,5,806,Tibasosa
+324,5,808,Tinjaca
+325,5,810,Tipacoque
+326,5,814,Toca
+327,5,816,Togui
+328,5,820,Topaga
+329,5,822,Tota
+330,5,832,Tunungua
+331,5,835,Turmeque
+332,5,837,Tuta
+333,5,839,Tutasa
+334,5,842,Umbita
+335,5,861,Ventaquemada
+336,5,879,Viracacha
+337,5,897,Zetaquira
+338,6,1,Manizales
+339,6,13,Aguadas
+340,6,42,Anserma
+341,6,50,Aranzazu
+342,6,88,Belalcazar
+343,6,174,Chinchina
+344,6,272,Filadelfia
+345,6,380,La Dorada
+346,6,388,La Merced
+347,6,433,Manzanares
+348,6,442,Marmato
+349,6,444,Marquetalia
+350,6,446,Marulanda
+351,6,486,Neira
+352,6,495,Norcasia
+353,6,513,Pacora
+354,6,524,Palestina
+355,6,541,Pensilvania
+356,6,614,Riosucio
+357,6,616,Risaralda
+358,6,653,Salamina
+359,6,662,Samana
+360,6,665,San Jose
+361,6,777,Supia
+362,6,867,Victoria
+363,6,873,Villamaria
+364,6,877,Viterbo
+365,7,1,Florencia
+366,7,29,Albania
+367,7,94,Belen De Los Andaquies
+368,7,150,Cartagena Del Chaira
+369,7,205,Curillo
+370,7,247,El Doncello
+371,7,256,El Paujil
+372,7,410,La Montañita
+373,7,460,Milan
+374,7,479,Morelia
+375,7,592,Puerto Rico
+376,7,610,San Jose De Fragua
+377,7,753,San Vicente Del Caguan
+378,7,756,Solano
+379,7,785,Solita
+380,7,860,Valparaiso
+381,8,1,Popayan
+382,8,22,Almaguer
+383,8,50,Argelia
+384,8,75,Balboa
+385,8,100,Bolivar
+386,8,110,Buenos Aires
+387,8,130,Cajibio
+388,8,137,Caldono
+389,8,142,Caloto
+390,8,212,Corinto
+391,8,256,El Tambo
+392,8,290,Florencia
+393,8,318,Guapi
+394,8,355,Inza
+395,8,364,Jambalo
+396,8,392,La Sierra
+397,8,397,La Vega
+398,8,418,Lopez (Micay)
+399,8,450,Mercaderes
+400,8,455,Miranda
+401,8,473,Morales
+402,8,513,Padilla
+403,8,517,Paez (Belalcazar)
+404,8,532,Patia (El Bordo)
+405,8,533,Piamonte
+406,8,548,Piendamo
+407,8,573,Puerto Tejada
+408,8,585,Purace (Coconuco)
+409,8,622,Rosas
+410,8,693,San Sebastian
+411,8,698,Santander De Quilichao
+412,8,701,Santa Rosa
+413,8,743,Silvia
+414,8,760,Sotara (Paispamba)
+415,8,780,Suarez
+416,8,807,Timbio
+417,8,809,Timbiqui
+418,8,821,Toribio
+419,8,824,Totoro
+420,8,845,Villarica
+421,9,1,Valledupar
+422,9,11,Aguachica
+423,9,13,Agustin Codazzi
+424,9,32,Astrea
+425,9,45,Becerril
+426,9,60,Bosconia
+427,9,175,Chimichagua
+428,9,178,Chiriguana
+429,9,228,Curumani
+430,9,238,El Copey
+431,9,250,El Paso
+432,9,295,Gamarra
+433,9,310,Gonzalez
+434,9,383,La Gloria
+435,9,400,La Jagua Ibirico
+436,9,443,Manaure (Balcon Del Cesar)
+437,9,517,Pailitas
+438,9,550,Pelaya
+439,9,570,Pueblo Bello
+440,9,614,Rio De Oro
+441,9,621,La Paz (Robles)
+442,9,710,San Alberto
+443,9,750,San Diego
+444,9,770,San Martin
+445,9,787,Tamalameque
+446,10,1,Monteria
+447,10,68,Ayapel
+448,10,79,Buenavista
+449,10,90,Canalete
+450,10,162,Cerete
+451,10,168,Chima
+452,10,182,Chinu
+453,10,189,Cienaga De Oro
+454,10,300,Cotorra
+455,10,350,La Apartada
+456,10,417,Lorica
+457,10,419,Los Cordobas
+458,10,464,Momil
+459,10,466,Montelibano
+460,10,500,Moñitos
+461,10,555,Planeta Rica
+462,10,570,Pueblo Nuevo
+463,10,574,Puerto Escondido
+464,10,580,Puerto Libertador
+465,10,586,Purisima
+466,10,660,Sahagun
+467,10,670,San Andres Sotavento
+468,10,672,San Antero
+469,10,675,San Bernardo Del Viento
+470,10,678,San Carlos
+471,10,686,San Pelayo
+472,10,807,Tierralta
+473,10,855,Valencia
+474,11,1,Agua De Dios
+475,11,19,Alban
+476,11,35,Anapoima
+477,11,40,Anolaima
+478,11,53,Arbelaez
+479,11,86,Beltran
+480,11,95,Bituima
+481,11,99,Bojaca
+482,11,120,Cabrera
+483,11,123,Cachipay
+484,11,126,Cajica
+485,11,148,Caparrapi
+486,11,151,Caqueza
+487,11,154,Carmen De Carupa
+488,11,168,Chaguani
+489,11,175,Chia
+490,11,178,Chipaque
+491,11,181,Choachi
+492,11,183,Choconta
+493,11,200,Cogua
+494,11,214,Cota
+495,11,224,Cucunuba
+496,11,245,El Colegio
+497,11,258,El Peñon
+498,11,260,El Rosal
+499,11,269,Facatativa
+500,11,279,Fomeque
+501,11,281,Fosca
+502,11,286,Funza
+503,11,288,Fuquene
+504,11,290,Fusagasuga
+505,11,293,Gachala
+506,11,295,Gachancipa
+507,11,297,Gacheta
+508,11,299,Gama
+509,11,307,Girardot
+510,11,312,Granada
+511,11,317,Guacheta
+512,11,320,Guaduas
+513,11,322,Guasca
+514,11,324,Guataqui
+515,11,326,Guatavita
+516,11,328,Guayabal De Siquima
+517,11,335,Guayabetal
+518,11,339,Gutierrez
+519,11,368,Jerusalen
+520,11,372,Junin
+521,11,377,La Calera
+522,11,386,La Mesa
+523,11,394,La Palma
+524,11,398,La Peña
+525,11,402,La Vega
+526,11,407,Lenguazaque
+527,11,426,Macheta
+528,11,430,Madrid
+530,11,438,Medina
+531,11,473,Mosquera
+532,11,483,Nariño
+533,11,486,Nemocon
+534,11,488,Nilo
+535,11,489,Nimaima
+536,11,491,Nocaima
+537,11,506,Venecia (Ospina Perez)
+538,11,513,Pacho
+539,11,518,Paime
+540,11,524,Pandi
+541,11,530,Paratebueno
+542,11,535,Pasca
+543,11,572,Puerto Salgar
+544,11,580,Puli
+545,11,592,Quebradanegra
+546,11,594,Quetame
+547,11,596,Quipile
+548,11,599,Apulo (Rafael Reyes)
+549,11,612,Ricaurte
+550,11,645,San Antonio Del Tequendama
+551,11,649,San Bernardo
+552,11,653,San Cayetano
+553,11,658,San Francisco
+554,11,662,San Juan De Rioseco
+555,11,718,Sasaima
+556,11,736,Sesquile
