@@ -23,8 +23,8 @@ create table
     constraint colombian_states_pkey primary key (id)
   ) tablespace pg_default;
 
-alter table colombian_states enable row level security;
-create policy "Everyone can select from colombian_states. " on colombian_states for
+alter table ref_colombian_states enable row level security;
+create policy "Everyone can select from ref_colombian_states. " on ref_colombian_states for
     select using (true);
 
 
